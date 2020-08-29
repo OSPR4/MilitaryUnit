@@ -1,13 +1,4 @@
-﻿/*
-Class:       ISTA 220 Programming Fundamentals in C#
-Student:     Osee Pierre
-Instructor:  Christine Lee
-Date:        08/25/20
-Description: Implementing a military unit using inheritance
-Revised:     
-Revised by:  
-Revision:   
-*/
+
 using System;
 
 
